@@ -1,0 +1,11 @@
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\bin\Debug\KnightsTourForm.exe.config
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\bin\Debug\KnightsTourForm.exe
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\bin\Debug\KnightsTourForm.pdb
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.Form1.resources
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.Properties.Resources.resources
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.exe
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.pdb
+C:\Users\micha\Desktop\Sheridan\Sem4\C#\Assignments\KnightsTourForm\KnightsTourForm\obj\Debug\KnightsTourForm.Form2.resources
